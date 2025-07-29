@@ -49,8 +49,45 @@ Download VSCode [ here! ](https://code.visualstudio.com/download)
 
 모바일 등 Windows 이외의 OS의 배포 방법은 실려 있지 않습니다.
 
-## 조임에
+## China 1
 
-YouTube하고 있습니다. 구독 및 상세 정보를 보려면 여기를 클릭하십시오.
+## 下载说明（仅限 Windows）
 
-VSCode 다운로드는 [여기에서!](https://code.visualstudio.com/download)
+<>在 Code 中点击“下载 ZIP”。
+
+点击“全部提取”。
+
+↑就这样！↑
+
+## 下载后注意事项
+
+本说明不包含针对 Windows 以外操作系统（例如移动设备）的文件提取说明。抱歉。
+
+## 结束语
+
+我在 YouTube 上。要订阅并查看更多详情，请点击[此处](https://www.youtube.com/@%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%E3%81%A7%E3%81%99-%E9%89%84%E3%82%AA%E3%82%BF)！
+
+点击此处下载 [ VSCode！](https://code.visualstudio.com/download)
+
+## China 2
+
+## 下載說明（僅限 Windows）
+
+<>在 Code 中點選「下載 ZIP」。
+
+點選“全部提取”。
+
+↑就這樣！ ↑
+
+## 下載後注意事項
+
+本說明不包含 Windows 以外作業系統（例如行動裝置）的檔案擷取說明。抱歉。
+
+## 結束語
+
+我在 YouTube 上。訂閱並查看更多詳情，請點擊[此處](https://www.youtube.com/@%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%E3%81%A7%E3%81%99-%E9%89%84%3%380%380%89%！
+
+點擊此處下載 VSCode！ ](https://code.visualstudio.com/download)
+
+Translation: Google Translate
+By: Onigiri
